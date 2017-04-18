@@ -1,0 +1,10 @@
+./example_images/ILSVRC2012_val_00000001.JPEG 65
+./example_images/ILSVRC2012_val_00000002.JPEG 970
+./example_images/ILSVRC2012_val_00000003.JPEG 230
+./example_images/ILSVRC2012_val_00000004.JPEG 809
+./example_images/ILSVRC2012_val_00000005.JPEG 516
+./example_images/ILSVRC2012_val_00000006.JPEG 57
+./example_images/ILSVRC2012_val_00000007.JPEG 334
+./example_images/ILSVRC2012_val_00000008.JPEG 415
+./example_images/ILSVRC2012_val_00000009.JPEG 674
+./example_images/ILSVRC2012_val_00000010.JPEG 332
