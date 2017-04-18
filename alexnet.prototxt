@@ -361,7 +361,7 @@ layer {
   top: "loss"
 }
 layer {
-  name: "prob_out"
+  name: "hdf5_out"
   type: "HDF5Output"
   bottom: "pool1"
   bottom: "label"
@@ -370,7 +370,7 @@ layer {
   }
 }
 layer {
-  name: "prob_out"
+  name: "hdf5_out"
   type: "HDF5Output"
   bottom: "pool2"
   bottom: "label"
@@ -379,7 +379,7 @@ layer {
   }
 }
 layer {
-  name: "prob_out"
+  name: "hdf5_out"
   type: "HDF5Output"
   bottom: "conv3"
   bottom: "label"
@@ -388,7 +388,7 @@ layer {
   }
 }
 layer {
-  name: "prob_out"
+  name: "hdf5_out"
   type: "HDF5Output"
   bottom: "conv4"
   bottom: "label"
@@ -397,7 +397,7 @@ layer {
   }
 }
 layer {
-  name: "prob_out"
+  name: "hdf5_out"
   type: "HDF5Output"
   bottom: "pool5"
   bottom: "label"
@@ -406,7 +406,7 @@ layer {
   }
 }
 layer {
-  name: "prob_out"
+  name: "hdf5_out"
   type: "HDF5Output"
   bottom: "fc6"
   bottom: "label"
@@ -415,7 +415,7 @@ layer {
   }
 }
 layer {
-  name: "prob_out"
+  name: "hdf5_out"
   type: "HDF5Output"
   bottom: "fc7"
   bottom: "label"
@@ -424,7 +424,7 @@ layer {
   }
 }
 layer {
-  name: "prob_out"
+  name: "hdf5_out"
   type: "HDF5Output"
   bottom: "fc8"
   bottom: "label"
