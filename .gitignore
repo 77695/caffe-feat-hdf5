@@ -1,3 +1,7 @@
 /example_images
 /feat
 *~
+*.jpg
+*.png
+*.caffemodel
+.vscode
